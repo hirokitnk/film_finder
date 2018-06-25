@@ -1,0 +1,1 @@
+CREATE TABLE film_master (sku CHAR(30), mrf CHAR(30),name_en VARCHAR(100), name_jp VARCHAR(100),iso CHAR(4), size CHAR(4), exposure CHAR(4));
